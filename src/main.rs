@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    for i in 1..101{
+        println!("mew {}",i)
+    }
 }
