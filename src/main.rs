@@ -1,5 +1,7 @@
 fn main() {
-    for i in 1..101{
+    let x = 1
+    let y = 101
+    for i in x..y{
         println!("mew {}",i)
     }
 }
